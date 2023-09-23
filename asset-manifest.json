@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ayait-landing-page/static/css/main.010723ee.css",
+    "main.js": "/ayait-landing-page/static/js/main.066897d3.js",
+    "static/media/10-12.jpg": "/ayait-landing-page/static/media/10-12.2d78e6735bf14f9e5b68.jpg",
+    "static/media/20-21.jpg": "/ayait-landing-page/static/media/20-21.6b6582da1a5b8cde4226.jpg",
+    "static/media/15.jpg": "/ayait-landing-page/static/media/15.e9369779ab20140a8877.jpg",
+    "static/media/14.jpg": "/ayait-landing-page/static/media/14.0bd090559bf570bf7f7a.jpg",
+    "static/media/18.jpg": "/ayait-landing-page/static/media/18.959fd9eb63003740b520.jpg",
+    "static/media/22.jpg": "/ayait-landing-page/static/media/22.b1f3e5b9711d1dd0eba8.jpg",
+    "static/media/16-17.jpg": "/ayait-landing-page/static/media/16-17.8cf2bd0ab2ddf0c3ffbd.jpg",
+    "static/media/logo.png": "/ayait-landing-page/static/media/logo.39a770a7d3037d481087.png",
+    "static/media/location.png": "/ayait-landing-page/static/media/location.4ba2450b71e973e57b09.png",
+    "static/media/wa.png": "/ayait-landing-page/static/media/wa.fdd4b7007148bcf6ce48.png",
+    "static/media/clock.png": "/ayait-landing-page/static/media/clock.45b0736b20ad251e6cdb.png",
+    "static/media/phone.webp": "/ayait-landing-page/static/media/phone.f777b7dbe694bb099e9b.webp",
+    "index.html": "/ayait-landing-page/index.html",
+    "main.010723ee.css.map": "/ayait-landing-page/static/css/main.010723ee.css.map",
+    "main.066897d3.js.map": "/ayait-landing-page/static/js/main.066897d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010723ee.css",
+    "static/js/main.066897d3.js"
+  ]
+}
