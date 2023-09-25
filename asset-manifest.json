@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ayait-landing-page/static/css/main.010723ee.css",
-    "main.js": "/ayait-landing-page/static/js/main.066897d3.js",
+    "main.css": "/ayait-landing-page/static/css/main.e2e5ce71.css",
+    "main.js": "/ayait-landing-page/static/js/main.74314360.js",
     "static/media/10-12.jpg": "/ayait-landing-page/static/media/10-12.2d78e6735bf14f9e5b68.jpg",
     "static/media/20-21.jpg": "/ayait-landing-page/static/media/20-21.6b6582da1a5b8cde4226.jpg",
     "static/media/15.jpg": "/ayait-landing-page/static/media/15.e9369779ab20140a8877.jpg",
@@ -15,11 +15,11 @@
     "static/media/clock.png": "/ayait-landing-page/static/media/clock.45b0736b20ad251e6cdb.png",
     "static/media/phone.webp": "/ayait-landing-page/static/media/phone.f777b7dbe694bb099e9b.webp",
     "index.html": "/ayait-landing-page/index.html",
-    "main.010723ee.css.map": "/ayait-landing-page/static/css/main.010723ee.css.map",
-    "main.066897d3.js.map": "/ayait-landing-page/static/js/main.066897d3.js.map"
+    "main.e2e5ce71.css.map": "/ayait-landing-page/static/css/main.e2e5ce71.css.map",
+    "main.74314360.js.map": "/ayait-landing-page/static/js/main.74314360.js.map"
   },
   "entrypoints": [
-    "static/css/main.010723ee.css",
-    "static/js/main.066897d3.js"
+    "static/css/main.e2e5ce71.css",
+    "static/js/main.74314360.js"
   ]
 }
