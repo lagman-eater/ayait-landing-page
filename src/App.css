@@ -82,6 +82,7 @@ nav a:hover {
 
 .main-swiper{
   background-color: #fff;
+  padding: 50px 0;
 }
 
 .cont-swiper {
@@ -95,8 +96,10 @@ nav a:hover {
 }
 
 .main-swiper img{
-  width: 80%;
-  height: 50%;
+  max-width: 80%;
+  aspect-ratio: 3 / 2;
+  /* width: 80%; */
+  /* height: 50%; */
 }
 
 .section-top {
@@ -181,6 +184,17 @@ footer {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+footer div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer span{
+  display: flex;
+  flex-direction: column;
 }
 
 footer img {

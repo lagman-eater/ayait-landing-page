@@ -70,6 +70,10 @@ function App() {
             >
               <SwiperSlide><img src={mainBg} alt="" /></SwiperSlide>
               <SwiperSlide><img src={sectionPic1} alt="" /></SwiperSlide>
+              <SwiperSlide><img src={sectionPic2} alt="" /></SwiperSlide>
+              <SwiperSlide><img src={sectionPic3} alt="" /></SwiperSlide>
+              <SwiperSlide><img src={sectionPic4} alt="" /></SwiperSlide>
+              <SwiperSlide><img src={sectionPic5} alt="" /></SwiperSlide>
             </Swiper>
           </div>
         </section>
@@ -83,6 +87,15 @@ function App() {
               Компания выпускает многие виды полиграфической продукции: книги, брошюры,
               календари, блокноты, сертификаты, визитки, журналы и другое.
             </p>
+            <p>
+              Издательство «Айат» постоянно находится в курсе новых достижений, и по
+              возможности применяет новые технологии в производстве, для повышения качества выпускаемой продукции.
+            </p>
+            <p>
+              Компания постоянно участвует на республиканских книжных выставках-ярмарках.
+            </p>
+            <p>За время существования издательства выпущено более 500 названий книг различной
+              тематики.</p>
           </div>
         </section>
         {/* <section>
@@ -122,9 +135,16 @@ function App() {
       <footer>
         <div class="footer-cont">
           <img src={logo} class="logo" />
-          <p><img src={location} />Адресс</p>
-          <p><img src={clock} />Пн-Пт: 9-18</p>
-          <p><img src={phone} />Контакты:</p>
+          <div><img src={location} /><p>Бишкек шаары,<br /> Ташкент к., 60</p></div>
+          <div><img src={clock} />Пн-Пт: 9:00-18:00</div>
+          <div><img src={phone} />
+            <span>
+              <a href='tel:+996312375095'>0312 375 095</a>
+              <a href='tel:+996312375101'>0312 375 101</a>
+              <a href='tel:+996700858812'>0700 858 812</a>
+              <a href='tel:+996777141098'>0777 141 098</a>
+            </span>
+          </div>
         </div>
       </footer>
     </>
