@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/ayait-landing-page/static/css/main.e2e5ce71.css",
-    "main.js": "/ayait-landing-page/static/js/main.74314360.js",
+    "main.css": "/ayait-landing-page/static/css/main.03a0bff8.css",
+    "main.js": "/ayait-landing-page/static/js/main.d6ac8fa6.js",
+    "static/media/13.jpg": "/ayait-landing-page/static/media/13.1c648ebe94a7471c9ea4.jpg",
     "static/media/10-12.jpg": "/ayait-landing-page/static/media/10-12.2d78e6735bf14f9e5b68.jpg",
     "static/media/20-21.jpg": "/ayait-landing-page/static/media/20-21.6b6582da1a5b8cde4226.jpg",
     "static/media/15.jpg": "/ayait-landing-page/static/media/15.e9369779ab20140a8877.jpg",
+    "static/media/99-02.jpg": "/ayait-landing-page/static/media/99-02.eb3812cf8660de590c75.jpg",
     "static/media/14.jpg": "/ayait-landing-page/static/media/14.0bd090559bf570bf7f7a.jpg",
     "static/media/18.jpg": "/ayait-landing-page/static/media/18.959fd9eb63003740b520.jpg",
     "static/media/22.jpg": "/ayait-landing-page/static/media/22.b1f3e5b9711d1dd0eba8.jpg",
     "static/media/16-17.jpg": "/ayait-landing-page/static/media/16-17.8cf2bd0ab2ddf0c3ffbd.jpg",
+    "static/media/23.jpg": "/ayait-landing-page/static/media/23.6099b2bd32cdbbce658b.jpg",
     "static/media/logo.png": "/ayait-landing-page/static/media/logo.39a770a7d3037d481087.png",
     "static/media/location.png": "/ayait-landing-page/static/media/location.4ba2450b71e973e57b09.png",
     "static/media/wa.png": "/ayait-landing-page/static/media/wa.fdd4b7007148bcf6ce48.png",
     "static/media/clock.png": "/ayait-landing-page/static/media/clock.45b0736b20ad251e6cdb.png",
     "static/media/phone.webp": "/ayait-landing-page/static/media/phone.f777b7dbe694bb099e9b.webp",
     "index.html": "/ayait-landing-page/index.html",
-    "main.e2e5ce71.css.map": "/ayait-landing-page/static/css/main.e2e5ce71.css.map",
-    "main.74314360.js.map": "/ayait-landing-page/static/js/main.74314360.js.map"
+    "main.03a0bff8.css.map": "/ayait-landing-page/static/css/main.03a0bff8.css.map",
+    "main.d6ac8fa6.js.map": "/ayait-landing-page/static/js/main.d6ac8fa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2e5ce71.css",
-    "static/js/main.74314360.js"
+    "static/css/main.03a0bff8.css",
+    "static/js/main.d6ac8fa6.js"
   ]
 }
