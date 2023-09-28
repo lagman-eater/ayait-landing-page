@@ -56,31 +56,31 @@ nav a:hover {
   flex-direction: column;
 }
 
-.main-section{
+.main-section {
   height: 600px;
   justify-content: start;
 }
 
-.main-section-text{
+.main-section-text {
   max-width: 350px;
 }
 
-.main-section h2{
+.main-section h2 {
   font-size: 46px;
   color: #7A1C2E
 }
 
-.main-section-text p{
+.main-section-text p {
   margin: 0;
 }
 
-.main-section img{
+.main-section img {
   margin-left: 10%;
   aspect-ratio: 2 / 1;
   max-width: 40%;
 }
 
-.main-swiper{
+.main-swiper {
   background-color: #fff;
   padding: 50px 0;
 }
@@ -89,15 +89,24 @@ nav a:hover {
   width: 100%;
 }
 
-.swiper-slide{
+.swiper-slide {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: transparent;
+  max-height: fit-content;
 }
 
-.main-swiper img{
+.main-swiper img {
   max-width: 80%;
-  aspect-ratio: 3 / 2;
+  max-height: 600px;
+  object-fit: contain;
+  user-select: none;
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  /* aspect-ratio: 3 / 2; */
   /* width: 80%; */
   /* height: 50%; */
 }
@@ -151,16 +160,14 @@ main section {
   align-items: center;
 }
 
-main section img {
-  
-}
+main section img {}
 
 main section p {
   margin: 0 10px;
   margin-left: 30px;
 }
 
-.section-text{
+.section-text {
   background-color: #fff;
 }
 
@@ -186,13 +193,13 @@ footer {
   align-items: center;
 }
 
-footer div{
+footer div {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-footer span{
+footer span {
   display: flex;
   flex-direction: column;
 }
@@ -211,4 +218,19 @@ footer .logo {
   width: 40px;
   height: 40px;
   color: rgb(218, 111, 88)
+}
+
+@media all and (max-width: 1440px) {
+  nav,
+  .cont,
+  .footer-cont {
+    width: 1024px;
+  }
+}
+@media all and (max-width: 1024px) {
+  nav,
+  .cont,
+  .footer-cont {
+    width: 768px;
+  }
 }

@@ -11,6 +11,9 @@ import sectionPic2 from './images/16-17.jpg'
 import sectionPic3 from './images/18.jpg'
 import sectionPic4 from './images/20-21.jpg'
 import sectionPic5 from './images/22.jpg'
+import sectionPic6 from './images/13.jpg'
+import sectionPic7 from './images/23.jpg'
+import sectionPic8 from './images/99-02.jpg'
 import logo from './images/logo.png'
 import location from './images/location.png'
 import clock from './images/clock.png'
@@ -58,7 +61,7 @@ function App() {
         <section className='main-swiper'>
           <div className='cont cont-swiper'>
             <Swiper
-              slidesPerView={1}
+              slidesPerView={3}
               // spaceBetween={20}
               centeredSlides={false}
               centerInsufficientSlides={true}
@@ -74,6 +77,9 @@ function App() {
               <SwiperSlide><img src={sectionPic3} alt="" /></SwiperSlide>
               <SwiperSlide><img src={sectionPic4} alt="" /></SwiperSlide>
               <SwiperSlide><img src={sectionPic5} alt="" /></SwiperSlide>
+              <SwiperSlide><img src={sectionPic6} alt="" /></SwiperSlide>
+              <SwiperSlide><img src={sectionPic7} alt="" /></SwiperSlide>
+              <SwiperSlide><img src={sectionPic8} alt="" /></SwiperSlide>
             </Swiper>
           </div>
         </section>
